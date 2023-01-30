@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+
+
+Join My Discord: https://discord.gg/QKQp88bPGb
+
 <!--
 **Dontknow09/Dontknow09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
