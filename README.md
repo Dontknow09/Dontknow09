@@ -3,11 +3,9 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
 
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-
-
 Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
-<iframe src="https://discord.com/widget?id=1038060068819701780&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Legends of Time](https://discord.com/widget?id=1038060068819701780&theme=dark)
 
 <!--
 **Dontknow09/Dontknow09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
