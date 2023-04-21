@@ -5,8 +5,6 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
 
 Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
-![Legends of Time](https://discord.com/widget?id=1038060068819701780&theme=dark)
-
 <!--
 **Dontknow09/Dontknow09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
