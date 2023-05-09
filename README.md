@@ -1,6 +1,82 @@
 ### **Hi there everyone!** 👋
 I'm currently working on a device that can manipulate bluetooth signals 'cause that would be pretty cool.
+```c# 
 
+     public class About : Me { 
+
+         //Information 
+
+         readonly string Name = "Dontknow09"; 
+
+         readonly string Country = "Sweden"; 
+
+          
+
+         readonly DateTime ProgrammingSince =  
+
+             DateTime.Parse("2022-01-15"); 
+
+          
+
+         //Programming~ 
+
+         readonly string[] Languages = { 
+
+             "C#",
+             
+             "CSS", 
+
+             "HTML"
+
+         }; 
+
+          
+
+         readonly string[] Tools = { 
+
+             "Visual Studio Code", 
+
+             "Unity",
+             
+             "GitHub"
+
+         }; 
+
+  
+
+         readonly string[] Projects = { 
+
+             "Bluetooth Hacker", 
+
+             "Public MC", 
+
+             "3 Spotify Albums"
+
+         }; 
+
+  
+
+         readonly string[] Interests = { 
+
+             "Programming", 
+
+             "Gaming", 
+
+             "Artistic Design", 
+
+             "UI Design" 
+
+         }; 
+
+         //Last Updated On 2023-05-09 
+
+     } 
+
+ ``` 
+
+  
+
+ ---
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
