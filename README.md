@@ -78,7 +78,7 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
 
  ---
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Dontknow09's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
