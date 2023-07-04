@@ -1,5 +1,5 @@
 ### **Hi there everyone!** 👋
-I'm currently working on a device that can manipulate bluetooth signals 'cause that would be pretty cool.
+I'm currently working on a device that can manipulate bluetooth signals 'cause that would be pretty cool. Also starting my Journey as a Minecraft modder.
 ```c# 
 
      public class About : Me { 
@@ -14,7 +14,7 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
 
          readonly DateTime ProgrammingSince =  
 
-             DateTime.Parse("2022-01-15"); 
+             DateTime.Parse("dont know"); 
 
           
 
@@ -48,7 +48,7 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
 
              "Bluetooth Hacker", 
 
-             "Public MC", 
+             "Public MC Server", 
 
              "3 Spotify Albums"
 
@@ -68,7 +68,7 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
 
          }; 
 
-         //Last Updated On 2023-05-09 
+         //Last Updated On 2023-07-05 
 
      } 
 
