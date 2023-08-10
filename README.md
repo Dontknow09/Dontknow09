@@ -1,5 +1,13 @@
 ### **Hi there everyone!** 👋
-I'm currently working on a device that can manipulate bluetooth signals 'cause that would be pretty cool. Also starting my Journey as a Quilt Minecraft modder.
+I'm currently working on a device that can manipulate bluetooth signals 'cause that would be pretty cool. Also starting my Journey as a Quilt Minecraft modder.\
+
+![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)\
+![Dontknow09's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
+
+---
+
 ```c# 
 
      public class About : Me { 
@@ -26,7 +34,9 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
              
              "CSS", 
 
-             "HTML"
+             "HTML",
+
+             "JSON"
 
          }; 
 
@@ -39,6 +49,8 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
              "Unity",
              
              "GitHub"
+
+             "Quilt & Fabric"
 
          }; 
 
@@ -68,19 +80,11 @@ I'm currently working on a device that can manipulate bluetooth signals 'cause t
 
          }; 
 
-         //Last Updated On 2023-07-05 
+         //Last Updated On 2023-08-10 
 
      } 
 
- ``` 
-
-  
-
- ---
-![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Dontknow09's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
+ ```
 
 <!--
 **Dontknow09/Dontknow09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
