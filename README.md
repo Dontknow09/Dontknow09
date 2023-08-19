@@ -49,7 +49,7 @@ Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
              "Unity",
              
-             "GitHub"
+             "GitHub",
 
              "Quilt & Fabric"
 
