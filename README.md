@@ -1,5 +1,5 @@
 ### **Hi there everyone!** 👋
-I'm currently working on a bunch of different things, including translating some of my favourite mods to my native language (check GitHub profile). Also planning on starting my Journey as a Quilt Minecraft modder. Open for collabs sometimes. Wont tell when. Just DM me on Discord (or on Github if possible idk)
+I'm currently working on a bunch of different things, including translating some of my favourite mods to my native language (check GitHub profile). Also planning on starting my Journey as a Quilt Minecraft modder. Open for collabs sometimes. Won't tell when I can; Just DM me on Discord (or on Github if possible idk)
 
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)\
