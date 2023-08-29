@@ -89,15 +89,15 @@ Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
 ```json
 {
-    "information" = [
+    "information" : [
       
-      "name" = "Dontknow09",
+      "name" : "Dontknow09",
       
-      "country" = "Sweden"
+      "country" : "Sweden"
     ],
-    "programming" = [
+    "programming" : [
         
-        "languages" = [
+        "languages" : [
             
             "C#",
 
@@ -108,12 +108,16 @@ Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
             "JSON"
         ],
         
-        "tools" = [
+        "tools" : [
             
             "Visual Studio Code",
             
             "Github",
+
+            "Tailwind",
             
+            "Svelte",
+
             "Unity",
             
             "Blender",
@@ -121,11 +125,16 @@ Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
             "Fabric/Quilt"
         ],
         
-        "projects" = [
-            ""
+        "projects" : [
+            
+            "Public MC",
+
+            "3 Albums And A Single On Spotify",
+
+            "Regional Phenomenon Mod"
         ],
         
-        "interests" = [
+        "interests" : [
             
             "Programming",
             
