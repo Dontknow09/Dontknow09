@@ -89,9 +89,53 @@ Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
 ```json
 {
-   "information" = {[
-      "Name" = "Dontknow09", 
-]}
+    "information" = [
+      
+      "name" = "Dontknow09",
+      
+      "country" = "Sweden"
+    ],
+    "programming" = [
+        
+        "languages" = [
+            
+            "C#",
+
+            "CSS/SCSS",
+            
+            "HTML",
+            
+            "JSON"
+        ],
+        
+        "tools" = [
+            
+            "Visual Studio Code",
+            
+            "Github",
+            
+            "Unity",
+            
+            "Blender",
+            
+            "Fabric/Quilt"
+        ],
+        
+        "projects" = [
+            ""
+        ],
+        
+        "interests" = [
+            
+            "Programming",
+            
+            "Gaming",
+            
+            "Artistic Design",
+            
+            "UI Design"
+        ]
+    ]
 }
 
 ```
