@@ -1,6 +1,11 @@
 ### **Hi there everyone!** 👋
 I'm currently working on a bunch of different things, including translating some of my favourite mods to my native language (check GitHub profile). Also planning on starting my Journey as a Quilt Minecraft modder. Open for collabs sometimes. Won't tell you when I can; Just DM me on Discord (or on Github if possible idk) and see if you get an answer. Also migrating the code block bellow to JSON
 
+Here's some quick facts:
+* I prefer to use tabs for indentation
+* 
+*
+
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)\
 ![Dontknow09's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
