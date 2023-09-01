@@ -3,7 +3,7 @@ I'm currently working on a bunch of different things, including translating some
 
 Here's some quick facts:
 * I prefer to use tabs for indentation
-* 
+* My music style is messed up
 *
 
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)\
