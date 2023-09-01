@@ -1,5 +1,5 @@
 ### **Hi there everyone!** 👋
-I'm currently working on a bunch of different things, including translating some of my favourite mods to my native language (check GitHub profile). Also planning on starting my Journey as a Quilt Minecraft modder. Open for collabs sometimes. Won't tell you when I can; Just DM me on Discord (or on Github if possible idk) and see if you get an answer. Also migrating the code block bellow to JSON
+I'm currently working on a bunch of different things, including translating some of my favourite mods to my native language (check GitHub profile). Also planning on starting my Journey as a Quilt/Fabric Minecraft modder. Open for collabs sometimes. Won't tell you when I can; Just DM me on Discord (or on Github if possible idk) and see if you get an answer. Also migrating the code block bellow to JSON
 
 Here's some quick facts:
 * I prefer to use tabs for indentation
