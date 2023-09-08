@@ -82,8 +82,9 @@ Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
              "Artistic Design", 
 
-             "UI Design" 
+             "UI Design",
 
+             "Localization"
          }; 
 
          //Last Updated On 2023-08-10 
