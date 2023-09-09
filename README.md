@@ -4,7 +4,7 @@ I'm currently working on a bunch of different things, including translating some
 Here's some quick facts:
 * I prefer to use tabs for indentation
 * My music style is messed up
-*
+* I often times see when our universe got forked
 
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)\
