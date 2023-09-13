@@ -1,16 +1,39 @@
-### **Hi there everyone!** 👋
-I'm currently working on a bunch of different things, including translating some of my favourite mods to my native language (check GitHub profile). Also planning on starting my Journey as a Quilt/Fabric Minecraft modder. Open for collabs sometimes. Won't tell you when I can; Just DM me on Discord (or on Github if possible idk) and see if you get an answer. Also migrating the code block bellow to JSON
+### Hi there everyone 👋
+  
+ #### About Me 
+  
+ - Born in Sweden 🇸🇪
+ - Loves Technology 🖨
+ - Loves Songwriting and Music 🎶
+  
+ #### Career & Other Fun Stuff
+ 
+ - Loves to contibute to Open Source 🔧
+ - Looking for like-minded devs and gamers 🎮👨‍💻
+  
+ #### Popular Articles of Mine 
 
-Here's some quick facts:
-* I prefer to use tabs for indentation
-* My music style is messed up
-* I often times see when our universe got forked
+
+
+ #### Where to find me 
+  
+ - Here 👋
+ - [Discord 🎮 (invites paused)](https://discord.gg/QKQp88bPGb)
+ - [My Website 🌍]()
+  
+ #### I would love to: 
+  
+ - Talk Tech
+ - Talk other awesome things
+ - Develop Something cool
+ - Play Chess
+ - Learn more
+
+#### GitHub Stats:
 
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)\
 ![Dontknow09's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
 
 ---
 
@@ -153,6 +176,11 @@ Join My Discord For More Epic Content: https://discord.gg/QKQp88bPGb
     ]
     //Last Updated On 2023-08-29
 }
+
+README credits:
+elebumm
+henkelmax
+doctor4t
 
 ```
 
