@@ -18,7 +18,7 @@
  #### Where to find me 
   
  - Here 👋
- - [Discord 🎮 (invites paused)](https://discord.gg/QKQp88bPGb)
+ - [My Discord 🎮 (invites paused)](https://discord.gg/QKQp88bPGb)
  - [My Website 🌍]()
   
  #### I would love to: 
