@@ -5,6 +5,7 @@
  - Born in Sweden 🇸🇪
  - Loves Technology 🖨
  - Loves Songwriting and Music 🎶
+ - Loves good UI/UX design 👨‍💻
   
  #### Career & Other Fun Stuff
  
