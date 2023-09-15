@@ -26,9 +26,9 @@
   
  - Talk Tech
  - Talk other awesome things
- - Develop Something cool
- - Play Chess
- - Learn more
+ - Develop Something cool 👨‍💻
+ - Play Chess 🔳
+ - Learn more 📚
 
 #### GitHub Stats:
 
