@@ -1,28 +1,27 @@
 # Hi there everyone 👋
-  
- #### About Me 
+#### About Me 
   
  - Born in Sweden 🇸🇪
  - Loves Technology 🖨
  - Loves Songwriting and Music 🎶
  - Loves good UI/UX design 👨‍💻
   
- #### Career & Other Fun Stuff
+#### Career & Other Fun Stuff
  
  - Loves to contibute to Open Source 🔧
  - Looking for like-minded devs and gamers 🎮👨‍💻
   
- #### Popular Articles of Mine 
+#### Popular Articles of Mine 
 
 
 
- #### Where to find me 
+#### Where to find me 
   
  - Here 👋
  - [My Discord 🎮 (invites paused)](https://discord.gg/QKQp88bPGb)
  - [My Website 🌍]()
   
- #### I would love to: 
+#### I would love to: 
   
  - Talk Tech
  - Talk other awesome things
