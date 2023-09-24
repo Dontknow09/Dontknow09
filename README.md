@@ -20,7 +20,7 @@
   
  - Here 👋
  - [My Discord 🎮 (invites paused)](https://discord.gg/QKQp88bPGb)
- - [My Website 🌍]()
+ - [My Website 🌍 (not up yet)]()
   
 #### I would love to: 
   
