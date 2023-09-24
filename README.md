@@ -18,7 +18,7 @@
 #### Where to find me 
   
  - Here 👋
- - [My Discord 🎮 (invites paused)](https://discord.gg/QKQp88bPGb)
+ - [Join My Discord Server 🎮 (invites paused)](https://discord.gg/QKQp88bPGb) or DM @dontknow09
  - [My Website 🌍 (not up yet)]()
   
 #### I would love to: 
