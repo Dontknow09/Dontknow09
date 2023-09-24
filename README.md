@@ -5,6 +5,7 @@
  - Loves Technology 🖨
  - Loves Songwriting and Music 🎶
  - Loves good UI/UX design 👨‍💻
+ - My taste of Music is really messed up
   
 #### Career & Other Fun Stuff
  
