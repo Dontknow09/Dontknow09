@@ -32,8 +32,7 @@
 #### GitHub Stats:
 
 ![Dontknow09's github stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)\
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)\
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue&mode=weekly)](https://git.io/streak-stats)\
 ![Dontknow09's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
