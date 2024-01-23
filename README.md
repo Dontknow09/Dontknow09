@@ -29,6 +29,12 @@
  - Play Chess 🔳
  - Learn more 📚
 
+#### Projects I've contributed to
+##### Localized Projects
+ - [Simple Voice Chat by henkelmax](https://github.com/henkelmax/simple-voice-chat)
+ - [ItemSwapper by tr7zw](https://github.com/tr7zw/itemswapper)
+ - [3D Skin Layers by tr7zw](https://github.com/tr7zw/)
+
 #### Tools I Use
 - Visual Studio Code 
 - Flutter
