@@ -33,8 +33,8 @@
 ##### Localized Projects
  - [Simple Voice Chat by henkelmax](https://github.com/henkelmax/simple-voice-chat)
  - [ItemSwapper by tr7zw](https://github.com/tr7zw/itemswapper)
- - [3D Skin Layers by tr7zw](https://github.com/tr7zw/)
- - [Effective by doctor4t]()
+ - [3D Skin Layers by tr7zw](https://github.com/tr7zw/3d-skin-layers)
+ - [Effective by doctor4t](https://github.com/Ladysnake/Effective)
 
 #### Tools I Use
 - Visual Studio Code 
