@@ -37,8 +37,12 @@
  - [Effective by doctor4t](https://github.com/Ladysnake/Effective)
 
 #### Tools I Use
-- Visual Studio Code 
+- Visual Studio Code
 - Flutter
+- Blockbench
+- Snowstorm
+- GitHub
+- IntelliJ IDEA Community
 
 #### GitHub Stats:
 
