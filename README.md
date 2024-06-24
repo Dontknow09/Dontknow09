@@ -5,6 +5,7 @@
  - Loves Technology 🖨
  - Loves Songwriting and Music 🎶
  - Loves good UI/UX design 👨‍💻
+ - Loves Photography (Primarly Candid/Street) 📸
   
 #### Career & Other Fun Stuff
  
