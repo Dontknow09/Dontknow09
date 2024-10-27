@@ -20,7 +20,7 @@
   
  - Here 👋
  - [Join My Discord Server 🎮 (invites paused)](https://discord.gg/QKQp88bPGb) or DM @dontknow09
- - [My Website 🌍 (not up yet)]()
+ - [My Website 🌍](https://dontknow09.github.io)
   
 #### I would love to: 
   
