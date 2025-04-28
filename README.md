@@ -4,7 +4,7 @@ I was born in Sweden 🇸🇪 and have always been passionate about technology �
 
 Throughout my journey, contributing to open-source projects 🔧 has been one of my favorite activities. I'm always on the lookout for creative, like-minded developers and gamers 🎮 who share my enthusiasm for innovation and building something amazing
 
-You can find me here on GitHub 👋, where I love to explore, learn, and collaborate. I also run a [Discord server 🎮 (currently, invites are paused)](https://discord.gg/QKQp88bPGb), but feel free to DM me at [@dontknow09](https://discord.com/users/1002938933975465984). Plus, check out [my website 🌐](https://dontknow09.github.io) to learn more about my work and interests.
+You can find me here on GitHub 👋, where I love to explore, learn, and collaborate. I also run a [Discord server 🎮 (currently, invites are paused)](https://discord.gg/QKQp88bPGb), but feel free to DM me at [@dontknow09](https://discord.com/users/1002938933975465984). Plus, check out [my website 🌐 (still under construction 🏗️)](https://dontknow09.github.io) to learn more about my work and interests.
 
 ### Projects I've Contributed To 🛠️
 I’ve had the joy of contributing to some fantastic projects, including:
