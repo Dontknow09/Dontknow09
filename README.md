@@ -1,5 +1,7 @@
 # Välkommen hit, kul att du tittar förbi! 👋
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31thtmdaagpa37w7kqrpj3vqpeai&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31thtmdaagpa37w7kqrpj3vqpeai&redirect=true)
+
 I was born in Sweden 🇸🇪 and have always been passionate about technology 🖥️, songwriting 🎶, and music 🎵. I thrive on creating intuitive UI/UX designs 👨‍💻 and capturing candid moments through photography 📸, especially in street settings.
 
 Throughout my journey, contributing to open-source projects 🔧 has been one of my favorite activities. I'm always on the lookout for creative, like-minded developers and gamers 🎮 who share my enthusiasm for innovation and building something amazing
