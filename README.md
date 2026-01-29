@@ -1,38 +1,50 @@
-# Välkommen hit, kul att du tittar förbi! 👋
+# Hi I'm Dontknow09
+<p align="center">
+  <a href="https://twitch.tv/itsdontknow09" title="Twitch">
+    <img alt="twitch-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg">
+  </a>
+  <a href="https://youtube.com/@ItsDontknow09SWE" title="YouTube">
+    <img alt="youtube-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg">
+  </a>
+  </br>
+  <img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_vector.svg">
+  <img alt="spigot" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/spigot_vector.svg">
+</p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31thtmdaagpa37w7kqrpj3vqpeai&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31thtmdaagpa37w7kqrpj3vqpeai&redirect=true)
+### Who I am
+A silly dude from sweden with a burning passion for far too many things
 
-I was born in Sweden 🇸🇪 and have always been passionate about technology 🖥️, songwriting 🎶, and music 🎵. I thrive on creating intuitive UI/UX designs 👨‍💻 and capturing candid moments through photography 📸, especially in street settings.
+### Interests
+* Minecraft Modding
+* Music
+* Screenwriting
+* Content Creation
+* Grilling Marshmallows while watching the stars
+* Candid/Street Photography
 
-Throughout my journey, contributing to open-source projects 🔧 has been one of my favorite activities. I'm always on the lookout for creative, like-minded developers and gamers 🎮 who share my enthusiasm for innovation and building something amazing
+### Tools I use
+* Visual Studio Code
+* Flutter
+* GitHub (obviously)
+* IntelliJ IDEA
 
-You can find me here on GitHub 👋, where I love to explore, learn, and collaborate. I also run a [Discord server 🎮 (currently, invites are paused)](https://discord.gg/QKQp88bPGb), but feel free to DM me at [@dontknow09](https://discord.com/users/1002938933975465984). Plus, check out [my website 🌐 (still under construction 🏗️)](https://dontknow09.github.io) to learn more about my work and interests.
+### Public Projects I'm working on
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dontknow09&repo=AlignMyBoat)](https://github.com/Dontknow09/AlignMyBoat)
 
-### Projects I've Contributed To 🛠️
-I’ve had the joy of contributing to some fantastic projects, including:
-- [Simple Voice Chat by henkelmax](https://github.com/henkelmax/simple-voice-chat) 🎙️
-- [ItemSwapper by tr7zw](https://github.com/tr7zw/itemswapper) 🔄
-- [3D Skin Layers by tr7zw](https://github.com/tr7zw/3d-skin-layers) 🎨
-- [Effective by doctor4t](https://github.com/Ladysnake/Effective) 🌊
+</br>
 
-### Tools I Use 🛠️
-Here are some of the tools that help me bring ideas to life:
-- Visual Studio Code 🖥️
-- Flutter 🚀
-- Blockbench 🧱
-- GitHub 🐙
-- IntelliJ IDEA Community 💡
+--------
 
-### A Few Fun Facts About Me 🤩
-- I love talking about tech 💬 and other awesome topics.
-- Chess is one of my favorite games ♟️.
-- I’m always eager to collaborate on cool projects 👨‍💻.
-- Learning something new is my daily goal 📚.  
+</br>
 
-### GitHub Stats 📊
+### My Stats
 ![Dontknow09's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dontknow09&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dontknow09&theme=radical&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue&mode=weekly)](https://git.io/streak-stats)
+
 ![Dontknow09's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dontknow09&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dontknow09/AlignMyBoat&type=Date)](https://www.star-history.com/#Significant-Gravitas/AutoGPT&madushadhanushka/github-readme&Date)
 
 <!--
 **Dontknow09/Dontknow09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
