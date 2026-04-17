@@ -12,7 +12,7 @@
 </p>
 
 ### Who I am
-A silly dude from sweden with a burning passion for far too many things
+Just a silly dude with a burning passion for far too many things
 
 ### Interests
 * Minecraft Modding
