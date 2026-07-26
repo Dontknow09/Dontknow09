@@ -27,6 +27,8 @@ Just a silly dude with a burning passion for far too many things
 * Flutter
 * GitHub (obviously)
 * IntelliJ IDEA
+* Godot
+* FlatRedBall
 
 ### Public Projects I'm working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dontknow09&repo=AlignMyBoat)](https://github.com/Dontknow09/AlignMyBoat)
